@@ -1,9 +1,12 @@
 Ubuntu 18.04
 MSI P65
-GeFORECE RTX 206
+GeFORECE RTX 2060
 
 Follow (GTX1060-> RTX2060)
 https://gist.github.com/mari-linhares/cef4cb3440408e44963d1447a7db5ae0
 
 CUDA 10.1 installation: 
 https://medium.com/@exesse/cuda-10-1-installation-on-ubuntu-18-04-lts-d04f89287130
+
+Check for pytorch-version for different CUDA versions
+https://pytorch.org/get-started/previous-versions/
